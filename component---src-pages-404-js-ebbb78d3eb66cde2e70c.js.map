@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/404.js"],"names":["NotFound","Fragment"],"mappings":"0FAAA,2BAIeA,UAFE,kBAAM,kBAAC,IAAMC,SAAP","file":"component---src-pages-404-js-ebbb78d3eb66cde2e70c.js","sourcesContent":["import React from \"react\"\n\nconst NotFound = () => <React.Fragment>Page not found!</React.Fragment>\n\nexport default NotFound\n"],"sourceRoot":""}
